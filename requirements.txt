@@ -1,0 +1,5 @@
+telethon
+aiogram
+groq
+aiosqlite
+python-dotenv
